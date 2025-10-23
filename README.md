@@ -8,7 +8,7 @@ Data Analytics and Data Science · Machine Learning · Open to work
 ---
 
 ## About
-I am an adaptive and well-organized individual with hands‑on experience in data analytics, data science and machine learning. I build data‑driven solutions and deploy models and dashboards that help convert insights into action. Currently open to work and actively seeking roles in data analytics, data science or ML engineering.
+I am an adaptive and well‑organized individual with hands‑on experience in data analytics, data science and machine learning. I build data‑driven solutions and deploy models and dashboards that help convert insights into action. Currently open to work and actively seeking roles in data analytics, data science or ML engineering.
 
 Key highlights:
 - Practical experience in machine learning model development, NLP, and building interactive dashboards.  
@@ -34,10 +34,10 @@ Technologies: Python, Pandas, Scikit‑learn, NLP techniques, Streamlit
 
 Highlights:
 - Full data pipeline: preprocessing → EDA → feature engineering → classification modeling.  
-- Reported model performance: ~91% accuracy for target conditions.  
+- Reported model performance: ~91% accuracy for key targets.  
 - Interactive Streamlit dashboard for user exploration.
 
-- [View project repository](https://github.com/Ravi-Singh64/AI-Driven-Mental-Health-Monitoring-System) • [Open live demo](https://ai-driven-mental-health-monitoring-system-aeemfm5u6kr74muypcxl.streamlit.app/)
+Project: [Project repository](https://github.com/Ravi-Singh64/AI-Driven-Mental-Health-Monitoring-System) · [Live demo](https://ai-driven-mental-health-monitoring-system-aeemfm5u6kr74muypcxl.streamlit.app/)
 
 Project screenshots and model plots (sourced from the project):
 - Streamlit dashboard (screenshot)  
@@ -68,7 +68,7 @@ Project screenshots and model plots (sourced from the project):
 
 - Master of Computer Applications (MCA), Specialization in Data Analytics — Galgotias University (2025)  
 - Bachelor of Computer Applications (BCA) — Maharshi Dayanand University (MDU), Rohtak (2022)  
-- Class XII Science (CBSE) — Diwan Chand Arya Senior Secondary School, Lodhi Colony, New Delhi (2019)
+- Class XII Science — Diwan Chand Arya Senior Secondary School, Lodhi Colony, New Delhi (2019)
 
 ---
 
@@ -81,20 +81,18 @@ Project screenshots and model plots (sourced from the project):
 - Smart India Hackathon 2024 — Pre‑Qualifier (Sept 2024)  
 - Research Paper: “AI‑Driven Mental Health Monitoring System: A Predictive Framework for Anxiety, Depression, and Stress Management” — ISJEM (Apr 2025)
 
-### Certificates
-(Click a thumbnail to open the certificate PDF where applicable. Image certificates render inline.)
-
+### Certificates images or pdfs
 1) RDBMS PostgreSQL Training — IIT Bombay, EduPyramids, SINE (May 2025)  
-   [![RDBMS thumbnail](assets/certificates/RAVI-RDBMS-PostgreSQL-Certificate_thumb.png)](assets/certificates/RAVI-RDBMS-PostgreSQL-Certificate.pdf)  
-   [Open PDF](assets/certificates/RAVI-RDBMS-PostgreSQL-Certificate.pdf)
+   [![RDBMS thumbnail](assets/certificates/RAVI-RDBMS-PostgreSQL-Certificate_thumb.png)](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/assets/certificates/RAVI-RDBMS-PostgreSQL-Certificate.pdf)  
+   [Open PDF](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/assets/certificates/RAVI-RDBMS-PostgreSQL-Certificate.pdf)
 
 2) Micro‑Certification — Flow Designer (ServiceNow) (Feb 2025)  
-   [![Micro‑Cert thumbnail](assets/certificates/Micro-Certification%20-%20Flow%20Designer_thumb.png)](assets/certificates/Micro-Certification%20-%20Flow%20Designer.pdf)  
-   [Open PDF](assets/certificates/Micro-Certification%20-%20Flow%20Designer.pdf)
+   [![Flow Designer thumbnail](assets/certificates/Ravi_Singh_flow_designer_thumb.png)](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/assets/certificates/Ravi_Singh_micro_certfication_Flow_Designer.pdf)  
+   [Open PDF](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/assets/certificates/Ravi_Singh_micro_certfication_Flow_Designer.pdf)
 
 3) Data Science & Analytics — HP LIFE (Nov 2024)  
-   [![HP Life thumbnail](assets/certificates/Ravi_Singh_Hp_DataScience_cert_thumb.png)](assets/certificates/Ravi_Singh_Hp_DataScience_cert.pdf)  
-   [Open PDF](assets/certificates/Ravi_Singh_Hp_DataScience_cert.pdf)
+   [![HP Life thumbnail](assets/certificates/Ravi_Singh_Hp_DataScience_cert_thumb.png)](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/assets/certificates/Ravi_Singh_Hp_DataScience_cert.pdf)  
+   [Open PDF](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/assets/certificates/Ravi_Singh_Hp_DataScience_cert.pdf)
 
 4) Advanced Program in Web Designing — Anudip Foundation (June 2022)  
    ![Advanced Program in Web Designing](assets/certificates/Ravi_Singh_Advance_program_Web_Designing_Anudip_Foundation.jpg)
@@ -103,12 +101,12 @@ Project screenshots and model plots (sourced from the project):
    ![SIH Prequalifier](assets/certificates/Ravi_Singh_SIH_prequalifiers_2024_GU.jpg)
 
 6) Research publication — ISJEM (Apr 2025)  
-   ![Research Publication](assets/certificates/Research_paper_publication_certificate_Ravi_Singh.jpg)
+   ![Research Publication](assets/certificates/Ravi_Singh_research_paper_publication_certificate.jpg)
 
 ---
 
 ## Resume
-Download: [Ravi_Singh_Resume_11.pdf](resume/Ravi_Singh_Resume_11.pdf)
+Open PDF: [Ravi_Singh_Resume_11.pdf](https://raw.githubusercontent.com/Ravi-Singh64/Ravi-Singh64/main/resume/Ravi_Singh_Resume_11.pdf)
 
 ---
 
